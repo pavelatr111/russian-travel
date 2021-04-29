@@ -1,0 +1,39 @@
+.footer__link {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 112%;
+  color: #FFFFFF;
+  text-decoration: none;
+  margin: 0;
+  margin-right: 18px;
+}
+
+.footer__link:last-of-type{
+  margin-right: 0;
+}
+
+.footer__link:hover {
+  opacity: 0.4;
+}
+
+@media screen and (max-width: 768px) {
+  .footer__link {
+    font-size: 2.34375vw;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer__link {
+    font-size: 7.5vw;
+    line-height: 100%;
+    margin: 0 0 32px;
+    padding-right: 0;
+    color: white;
+  }
+
+  .footer__link:last-of-type {
+    margin-bottom: 48px;
+  }
+}

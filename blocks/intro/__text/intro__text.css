@@ -1,0 +1,20 @@
+.intro__text{
+  /* max-height: 208px; */
+  max-width: 690px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 163%;
+  color: #FFFFFF;
+  margin: 0;
+  padding-bottom: 33px;
+  box-sizing: content-box;
+
+}
+
+@media screen and (max-width: 320px) {
+  .intro__text {
+    max-height: none;
+  }
+}
