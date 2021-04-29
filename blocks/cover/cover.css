@@ -6,14 +6,14 @@
   padding-top: 102px;
 }
 
-@media screen and  (max-width : 1024px) {
+@media screen and  (max-width: 1024px) {
   .cover {
     max-width: 1024px;
     max-height: 640px;
     padding-top: 100px;
   }
 }
-@media screen and (max-width : 768px) {
+@media screen and (max-width: 768px) {
   .cover {
     max-width: 768px;
     max-height: 480px;

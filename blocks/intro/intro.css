@@ -5,14 +5,14 @@
   padding: 130px 0 92px;
 }
 
-@media screen and  (max-width : 1024px) {
+@media screen and  (max-width: 1024px) {
   .intro {
     max-width: 928px;
     padding-top: 92px;
   }
 }
 
-@media screen and (max-width : 768px) {
+@media screen and (max-width: 768px) {
   .intro {
     max-width: 720px;
     padding-top: 68px;

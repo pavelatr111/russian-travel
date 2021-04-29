@@ -9,13 +9,13 @@
   padding: 92px 0 24px;
 }
 
-@media screen and (max-width : 1024px) {
+@media screen and (max-width: 1024px) {
   .footer {
     max-width: 928px;
   }
 }
 
-@media screen and (max-width : 768px) {
+@media screen and (max-width: 768px) {
   .footer {
     max-width: 720px;
     padding-top: 88px;
