@@ -1,6 +1,6 @@
 .place {
   max-width: 984px;
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, sans-serif;
   display: grid;
   column-gap: 40px;
   row-gap: 48px;
