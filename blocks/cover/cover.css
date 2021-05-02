@@ -6,21 +6,18 @@
   padding-top: 102px;
 }
 
-.cover:hover {
-  opacity: 0.8;
-}
 
 @media screen and  (max-width: 1024px) {
   .cover {
     max-width: 1024px;
-    max-height: 640px;
+    min-height: 640px;
     padding-top: 100px;
   }
 }
 @media screen and (max-width: 768px) {
   .cover {
     max-width: 768px;
-    max-height: 480px;
+    min-height: 480px;
     padding-top: 90px;
   }
 }
@@ -28,7 +25,7 @@
 @media screen and (max-width: 320px) {
   .cover {
     max-width: 320px;
-    max-height: 200px;
+    min-height: 200px;
     padding-top: 66px;
   }
 }
