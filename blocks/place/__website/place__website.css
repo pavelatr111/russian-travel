@@ -4,3 +4,10 @@
   margin: 0;
   box-sizing: content-box;
 }
+
+@media screen and (max-width: 320px) {
+.place__website {
+  min-width: 288px;
+  margin: auto;
+}
+}

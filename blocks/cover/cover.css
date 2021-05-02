@@ -1,9 +1,13 @@
 .cover {
   max-width: 1184px;
-  height: 740px;
+  min-height: 740px;
   margin: 0;
   margin: auto;
   padding-top: 102px;
+}
+
+.cover:hover {
+  opacity: 0.8;
 }
 
 @media screen and  (max-width: 1024px) {
