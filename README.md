@@ -1,6 +1,6 @@
 #  Путешествие по России
 
-[demo проекта ] russian-travel-paavlov.surge.sh
+[demo проекта ](http://russian-travel-paavlov.surge.sh/#)
 
 ## Проект о путешествии по России.
 
